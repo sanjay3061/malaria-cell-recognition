@@ -47,6 +47,10 @@ Generate predictions on the test data and calculate classification metrics.
 Use random image selection for inference and display the prediction result.
 
 
+
+
+
+
 ## PROGRAM
 
 ### Name: Sanjay.R
